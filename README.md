@@ -176,14 +176,6 @@ This project is for educational and research purposes.
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-BSc IT (Data Science)
-[Your LinkedIn / GitHub]
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
